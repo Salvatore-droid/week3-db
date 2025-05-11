@@ -1,7 +1,4 @@
--- SQL Database Assignment
--- Student: [Your Name]
--- Date: [Submission Date]
--- Course: Introduction to Databases
+
 
 /*
 =============================================
